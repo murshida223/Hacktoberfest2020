@@ -270,3 +270,7 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ #### Name: [Murshida](https://github.com/murshida223)
+ - Place: Kerala, India
+ - Bio: Student, plus2
+ - Github: [murshida223](https://github.com/murshida223)
